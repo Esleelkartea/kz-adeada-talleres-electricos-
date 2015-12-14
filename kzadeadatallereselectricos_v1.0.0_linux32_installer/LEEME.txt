@@ -1,0 +1,14 @@
+###### Aplicación de producción para carpinteros, version 1.0 ######
+
+-------------------------------------------------------------------------------
+
+* INSTALACIÓN:
+
+Para saber como realizar la instalación de la aplicación, ver el manual de instalación situado en la carpeta de "documentacion".
+Si la instalación se va a hacer en Windows, ver "manual_instalacion_windows.pdf". Si, en cambio, la instalación se va a hacer en Linux, ver "manual_instalacion_linux.pdf".
+
+-------------------------------------------------------------------------------
+
+* LICENCIA:
+
+Esta aplicación se distribuye, sin garantía, bajo licencia GPL. Puede ver esta licencia en: http://www.gnu.org/licenses/gpl.html o en el archivo "COPYING" de la aplicación.

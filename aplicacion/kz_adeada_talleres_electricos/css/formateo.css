@@ -1,0 +1,104 @@
+/* ----------------------------------------------------------------------------------------
+
+///////////////////////////////////////////////////////////////////////////
+//                                                                       //
+// NOTICE OF COPYRIGHT                                                   //
+//                                                                       //
+// 	Adeada Talleres Electricos                                           //
+//          http://www.grupogisma.com                                    //
+//                                                                       //
+// This program is free software; you can redistribute it and/or modify  //
+// it under the terms of the GNU General Public License as published by  //
+// the Free Software Foundation; either version 2 of the License, or     //
+// (at your option) any later version.                                   //
+//                                                                       //
+// This program is distributed in the hope that it will be useful,       //
+// but WITHOUT ANY WARRANTY; without even the implied warranty of        //
+// MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the         //
+// GNU General Public License for more details:                          //
+//                                                                       //
+//          http://www.gnu.org/copyleft/gpl.html                         //
+//                                                                       //
+///////////////////////////////////////////////////////////////////////////
+
+- Sitio Web:			http://www.adeada.com
+- Version:		        1.0
+- Fecha:				23 / 06 / 2011
+- Gramatica CSS:		2.1
+- Gramatica (X)HTML:	1.0 Transitional
+------------------------------------------------------------------------------------------- */
+
+
+
+html, body, div, a, span, dl, dt, dd, ul, ol, li, h1, h2, h3, h4, h5, h6, pre, form, fieldset, abbr, acronym, address, code, object, label, legend, input, textarea, p, blockquote, th, td, del, dfn, q, table, caption, tbody, tfoot, thead, tr, th, td { 
+	vertical-align: baseline;
+	padding: 0em 0em 0em 0em;
+	margin: 0em 0em 0em 0em;
+	border: 0em 0em 0em 0em;
+	font-weight: inherit;
+	font-family: inherit;
+	font-style: inherit;
+	font-size: 100%;
+}
+
+
+/* Tablas
+-------------------------------------------- */
+
+	table {
+		border-collapse:collapse;
+		border-spacing:0;
+		width:100%;
+	}
+
+
+/* Objects
+-------------------------------------------- */
+
+	object {
+		margin: 0em 0em 0em 0em;
+		padding: 0em 0em 0em 0em;
+		border: 0em;
+	}
+
+
+/* Abreviaturas, acronimos y definiciones
+-------------------------------------------- */
+
+	abbr, acronym, dfn {
+		border: none;
+		cursor: help;
+	}
+	
+
+/* Im&aacute;genes
+-------------------------------------------- */
+
+	img, a img, :link img, :visited img, :hover img {
+		border: 0em;
+	}
+	
+	
+/* Teclado Kbd
+-------------------------------------------- */
+	
+	kbd {
+		border-bottom: .1em solid #cccccc;
+		border-right: .1em solid #cccccc;
+		padding-bottom: 0.1em; 
+		padding-right: 0.4em; 
+		padding-left: 0.4em; 
+		background: #EFECEC;
+		padding-top: 0.1em;
+		font-size: 115%; 
+	}
+	
+	
+/* Listas
+-------------------------------------------- */
+	
+	ul, ol, dl, li {
+		margin: 0 0 0 0;
+		padding: 0 0 0 0;
+		position: relative;
+	}	

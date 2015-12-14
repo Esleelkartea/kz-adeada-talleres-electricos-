@@ -1,0 +1,162 @@
+/* ----------------------------------------------------------------------------------------
+
+///////////////////////////////////////////////////////////////////////////
+//                                                                       //
+// NOTICE OF COPYRIGHT                                                   //
+//                                                                       //
+// 	Adeada Talleres Electricos                                           //
+//          http://www.grupogisma.com                                    //
+//                                                                       //
+// This program is free software; you can redistribute it and/or modify  //
+// it under the terms of the GNU General Public License as published by  //
+// the Free Software Foundation; either version 2 of the License, or     //
+// (at your option) any later version.                                   //
+//                                                                       //
+// This program is distributed in the hope that it will be useful,       //
+// but WITHOUT ANY WARRANTY; without even the implied warranty of        //
+// MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the         //
+// GNU General Public License for more details:                          //
+//                                                                       //
+//          http://www.gnu.org/copyleft/gpl.html                         //
+//                                                                       //
+///////////////////////////////////////////////////////////////////////////
+
+- Sitio Web:			http://www.adeada.com
+- Version:		        1.0
+- Fecha:				23 / 06 / 2011
+- Gramatica CSS:		2.1
+- Gramatica (X)HTML:	1.0 Transitional
+------------------------------------------------------------------------------------------- */
+
+
+
+body {
+	background: url(../img/login/bg.jpg) repeat-x left top #ffffff;
+	color: #555555;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 79%;
+	text-align: center;
+}
+
+
+.logo {
+	text-align: center;
+	margin: 50px 0 20px 0;
+}
+
+#contenido {
+	background: url(../img/login/bg-login.jpg) no-repeat left top;
+	margin: 0px auto;
+	border:1px solid #fff;
+	text-align: left;
+	width: 386px;
+}
+
+#form-acceso {
+	border: 0px;
+	margin: 34px auto;
+	width: 380px;
+}
+
+#form-acceso fieldset {
+	border: 0px;
+}
+
+#form-acceso legend {
+	text-align: left;
+	text-transform: uppercase;
+	padding-left: 20px;
+	background: url(../img/login/bg-legend.jpg) repeat-x left center;
+	font-size: 110%;
+	color: #ffffff;
+	margin-left: 20px;
+}
+
+#form-acceso label {
+	float: left;
+	font-weight: bold;
+	margin-left: 53px;
+	text-align: left;
+	width: 90px;
+}
+
+#form-acceso .input-comun {
+	border: 1px solid #ccc;
+	width: 150px;
+}
+
+#form-acceso .bt-comun {
+	background: url(../img/login/bg-boton.jpg) no-repeat center center;
+	border: 1px solid #ffffff;
+	text-align: center;
+	color: #ffffff;
+	font-weight: bold;
+	margin-left: 198px;
+	width: 97px;
+	height: 29px;
+}
+
+a{
+    color: #0EA3CB;
+}
+
+.bt-volver {
+	background: #ccc;
+	color: #555;
+	border: 1px solid #ccc;
+	-webkit-border-radius: 10px;
+	-moz-border-radius: 10px;
+	border-radius: 10px;
+}
+.bt-volver:hover {
+	background: #555;
+	color: #ccc;
+	cursor: pointer;
+	border: 1px solid #ccc;
+	-webkit-border-radius: 10px;
+	-moz-border-radius: 10px;
+	border-radius: 10px;
+}
+
+.error {
+	background: #ecb9b9;
+	color: #662c2c;
+	border: 1px solid #dc8787;
+	margin: 15px;
+	padding: 15px;
+}
+
+
+
+
+#form-acceso a:hover {
+    color: #0f84a3;
+}
+
+.align-right {
+	align: right; 
+}
+
+.align-left {
+	align: left; 
+}
+
+.align-center { 
+	align: center;
+}
+
+.align-justify { 
+	align: justify;
+}
+
+#acceso-bg-top {
+background: url(../img/login/bg-login-top.jpg) no-repeat left top;
+overflow: hidden;
+}
+
+#cont-acceso {
+background: url(../img/login/bg-login-bottom.jpg) no-repeat left bottom;
+margin: 0px auto;
+border:1px solid #fff;
+width: 386px;
+}

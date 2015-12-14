@@ -1,0 +1,15 @@
+/opt/lampp/bin/ora_explain
+/opt/lampp/lib/perl5/site_perl/5.10.1/i686-linux/DBD/Oracle.pm
+/opt/lampp/lib/perl5/site_perl/5.10.1/i686-linux/DBD/Oracle/GetInfo.pm
+/opt/lampp/lib/perl5/site_perl/5.10.1/i686-linux/DBD/Oracle/Object.pm
+/opt/lampp/lib/perl5/site_perl/5.10.1/i686-linux/Oraperl.pm
+/opt/lampp/lib/perl5/site_perl/5.10.1/i686-linux/auto/DBD/Oracle/Oracle.bs
+/opt/lampp/lib/perl5/site_perl/5.10.1/i686-linux/auto/DBD/Oracle/Oracle.h
+/opt/lampp/lib/perl5/site_perl/5.10.1/i686-linux/auto/DBD/Oracle/Oracle.so
+/opt/lampp/lib/perl5/site_perl/5.10.1/i686-linux/auto/DBD/Oracle/dbdimp.h
+/opt/lampp/lib/perl5/site_perl/5.10.1/i686-linux/auto/DBD/Oracle/mk.pm
+/opt/lampp/lib/perl5/site_perl/5.10.1/i686-linux/auto/DBD/Oracle/ocitrace.h
+/opt/lampp/lib/perl5/site_perl/5.10.1/i686-linux/oraperl.ph
+/opt/lampp/share/man/man1/ora_explain.1
+/opt/lampp/share/man/man3/DBD::Oracle.3
+/opt/lampp/share/man/man3/DBD::Oraperl.3
